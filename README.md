@@ -1,3 +1,3 @@
-# Modify this portfolio
+# Christopher Lopez Portfolio
 
-Make it your own! 
+check out my deployed portfolio [here](christopher-lopez-portfolio.netlify.app)
